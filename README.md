@@ -48,7 +48,7 @@ Ensure you have the following installed:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/yourproject.git
+   git clone https://github.com/NICERTYU/LLMSDH.git
    ```
    
 2. Install the dependencies:
@@ -58,7 +58,7 @@ Ensure you have the following installed:
 
 3. Run the application:
    ```bash
-   streamlit run app.py
+   streamlit run zhipup[ower.py
    ```
 
 ### Usage
