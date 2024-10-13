@@ -100,7 +100,7 @@ def zip_and_remove_unique_folder(workspace_dir):
 
 
 
-openai_api_key = "067fbd5dd8562afc49b98b14efc3896e.LCpVekU5PwIdoGZY"
+openai_api_key = "your_zp_api_key"
 
 def read_file_encoding(file_path):
     # 检测文件编码
