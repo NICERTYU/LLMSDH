@@ -40,7 +40,7 @@ Easily link to your **GitHub repository** for seamless project documentation sha
 
 ### Prerequisites
 Ensure you have the following installed:
-- Python 3.7+
+- Python 3.9+
 - Streamlit
 - MetaGPT
 
